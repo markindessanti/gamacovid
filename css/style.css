@@ -122,3 +122,20 @@ section {
 .dropdown:hover .dropdown-content {
 	display: block;
 }
+
+#contato {
+    position: relative;
+    padding-bottom: 65%; /* 16:9 */
+    padding-top: 25px;
+    height: 1080px;
+    box-sizing: border-box;
+}
+
+#formulario {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1080px;
+    display:block;
+}
