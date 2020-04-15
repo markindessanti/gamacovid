@@ -100,8 +100,9 @@ section {
 	float: left;
 	overflow: hidden;
     margin-right: 3.8%;
+    margin-left: 16px;
     box-sizing: border-box;
-    background-color: #024210a2;
+    /* background-color: #024210a2; */
 }
 
 .dropdown .dropbtn {
@@ -110,7 +111,7 @@ section {
 	/* outline: none; */
 	color: white;
     padding: 8px 16px;
-    background-color: inherit;
+    background-color: #024210a2;
     box-sizing: border-box;
 }
 
